@@ -5,3 +5,6 @@ CREATE TABLE herramientas(
     tiempo_alguiler INT
 );
 
+CREATE TABLE usuarios(
+    id_usuario INT auto_increment PRIMARY KEY
+);
